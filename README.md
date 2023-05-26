@@ -1,2 +1,2 @@
-# IMD0601---Bioestat-stica
+# IMD0601-Bioestatistica
 Arquivos para a disciplina de Bioestatística
